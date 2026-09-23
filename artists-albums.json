@@ -1,0 +1,1910 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "username": "arijit-singh",
+      "name": "Arijit Singh",
+      "genre": "Indian Playback Singer",
+      "country": "India"
+    },
+    {
+      "id": "2",
+      "username": "atif-aslam",
+      "name": "Atif Aslam",
+      "genre": "Playback Singer",
+      "country": "Pakistan"
+    },
+    {
+      "id": "3",
+      "username": "taylor-swift",
+      "name": "Taylor Swift",
+      "genre": "Pop",
+      "country": "United States"
+    },
+    {
+      "id": "4",
+      "username": "ed-sheeran",
+      "name": "Ed Sheeran",
+      "genre": "Pop",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "5",
+      "username": "adele",
+      "name": "Adele",
+      "genre": "Soul / Pop",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "6",
+      "username": "the-weeknd",
+      "name": "The Weeknd",
+      "genre": "R&B / Pop",
+      "country": "Canada"
+    },
+    {
+      "id": "7",
+      "username": "bruno-mars",
+      "name": "Bruno Mars",
+      "genre": "Pop / Funk",
+      "country": "United States"
+    },
+    {
+      "id": "8",
+      "username": "dua-lipa",
+      "name": "Dua Lipa",
+      "genre": "Pop",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "9",
+      "username": "billie-eilish",
+      "name": "Billie Eilish",
+      "genre": "Alternative Pop",
+      "country": "United States"
+    },
+    {
+      "id": "10",
+      "username": "shawn-mendes",
+      "name": "Shawn Mendes",
+      "genre": "Pop",
+      "country": "Canada"
+    },
+    {
+      "id": "11",
+      "username": "selena-gomez",
+      "name": "Selena Gomez",
+      "genre": "Pop",
+      "country": "United States"
+    },
+    {
+      "id": "12",
+      "username": "justin-bieber",
+      "name": "Justin Bieber",
+      "genre": "Pop",
+      "country": "Canada"
+    },
+    {
+      "id": "13",
+      "username": "imagine-dragons",
+      "name": "Imagine Dragons",
+      "genre": "Pop Rock",
+      "country": "United States"
+    },
+    {
+      "id": "14",
+      "username": "one-direction",
+      "name": "One Direction",
+      "genre": "Pop",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "15",
+      "username": "post-malone",
+      "name": "Post Malone",
+      "genre": "Hip Hop / Pop",
+      "country": "United States"
+    },
+    {
+      "id": "16",
+      "username": "alan-walker",
+      "name": "Alan Walker",
+      "genre": "Electronic",
+      "country": "Norway"
+    }
+  ],
+  "albums": [
+    {
+      "id": "101",
+      "artistUsername": "arijit-singh",
+      "title": "Arijit Singh - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "102",
+      "artistUsername": "arijit-singh",
+      "title": "Arijit Singh - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "103",
+      "artistUsername": "arijit-singh",
+      "title": "Arijit Singh - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "104",
+      "artistUsername": "arijit-singh",
+      "title": "Arijit Singh - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "105",
+      "artistUsername": "arijit-singh",
+      "title": "Arijit Singh - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "106",
+      "artistUsername": "arijit-singh",
+      "title": "Arijit Singh - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "107",
+      "artistUsername": "arijit-singh",
+      "title": "Arijit Singh - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "108",
+      "artistUsername": "arijit-singh",
+      "title": "Arijit Singh - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "201",
+      "artistUsername": "atif-aslam",
+      "title": "Atif Aslam - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "202",
+      "artistUsername": "atif-aslam",
+      "title": "Atif Aslam - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "203",
+      "artistUsername": "atif-aslam",
+      "title": "Atif Aslam - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "204",
+      "artistUsername": "atif-aslam",
+      "title": "Atif Aslam - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "205",
+      "artistUsername": "atif-aslam",
+      "title": "Atif Aslam - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "206",
+      "artistUsername": "atif-aslam",
+      "title": "Atif Aslam - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "207",
+      "artistUsername": "atif-aslam",
+      "title": "Atif Aslam - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "208",
+      "artistUsername": "atif-aslam",
+      "title": "Atif Aslam - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "301",
+      "artistUsername": "taylor-swift",
+      "title": "Taylor Swift - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "302",
+      "artistUsername": "taylor-swift",
+      "title": "Taylor Swift - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "303",
+      "artistUsername": "taylor-swift",
+      "title": "Taylor Swift - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "304",
+      "artistUsername": "taylor-swift",
+      "title": "Taylor Swift - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "305",
+      "artistUsername": "taylor-swift",
+      "title": "Taylor Swift - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "306",
+      "artistUsername": "taylor-swift",
+      "title": "Taylor Swift - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "307",
+      "artistUsername": "taylor-swift",
+      "title": "Taylor Swift - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "308",
+      "artistUsername": "taylor-swift",
+      "title": "Taylor Swift - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "401",
+      "artistUsername": "ed-sheeran",
+      "title": "Ed Sheeran - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "402",
+      "artistUsername": "ed-sheeran",
+      "title": "Ed Sheeran - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "403",
+      "artistUsername": "ed-sheeran",
+      "title": "Ed Sheeran - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "404",
+      "artistUsername": "ed-sheeran",
+      "title": "Ed Sheeran - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "405",
+      "artistUsername": "ed-sheeran",
+      "title": "Ed Sheeran - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "406",
+      "artistUsername": "ed-sheeran",
+      "title": "Ed Sheeran - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "407",
+      "artistUsername": "ed-sheeran",
+      "title": "Ed Sheeran - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "408",
+      "artistUsername": "ed-sheeran",
+      "title": "Ed Sheeran - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "501",
+      "artistUsername": "adele",
+      "title": "Adele - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "502",
+      "artistUsername": "adele",
+      "title": "Adele - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "503",
+      "artistUsername": "adele",
+      "title": "Adele - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "504",
+      "artistUsername": "adele",
+      "title": "Adele - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "505",
+      "artistUsername": "adele",
+      "title": "Adele - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "506",
+      "artistUsername": "adele",
+      "title": "Adele - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "507",
+      "artistUsername": "adele",
+      "title": "Adele - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "508",
+      "artistUsername": "adele",
+      "title": "Adele - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "601",
+      "artistUsername": "the-weeknd",
+      "title": "The Weeknd - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "602",
+      "artistUsername": "the-weeknd",
+      "title": "The Weeknd - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "603",
+      "artistUsername": "the-weeknd",
+      "title": "The Weeknd - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "604",
+      "artistUsername": "the-weeknd",
+      "title": "The Weeknd - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "605",
+      "artistUsername": "the-weeknd",
+      "title": "The Weeknd - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "606",
+      "artistUsername": "the-weeknd",
+      "title": "The Weeknd - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "607",
+      "artistUsername": "the-weeknd",
+      "title": "The Weeknd - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "608",
+      "artistUsername": "the-weeknd",
+      "title": "The Weeknd - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "701",
+      "artistUsername": "bruno-mars",
+      "title": "Bruno Mars - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "702",
+      "artistUsername": "bruno-mars",
+      "title": "Bruno Mars - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "703",
+      "artistUsername": "bruno-mars",
+      "title": "Bruno Mars - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "704",
+      "artistUsername": "bruno-mars",
+      "title": "Bruno Mars - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "705",
+      "artistUsername": "bruno-mars",
+      "title": "Bruno Mars - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "706",
+      "artistUsername": "bruno-mars",
+      "title": "Bruno Mars - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "707",
+      "artistUsername": "bruno-mars",
+      "title": "Bruno Mars - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "708",
+      "artistUsername": "bruno-mars",
+      "title": "Bruno Mars - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "801",
+      "artistUsername": "dua-lipa",
+      "title": "Dua Lipa - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "802",
+      "artistUsername": "dua-lipa",
+      "title": "Dua Lipa - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "803",
+      "artistUsername": "dua-lipa",
+      "title": "Dua Lipa - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "804",
+      "artistUsername": "dua-lipa",
+      "title": "Dua Lipa - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "805",
+      "artistUsername": "dua-lipa",
+      "title": "Dua Lipa - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "806",
+      "artistUsername": "dua-lipa",
+      "title": "Dua Lipa - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "807",
+      "artistUsername": "dua-lipa",
+      "title": "Dua Lipa - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "808",
+      "artistUsername": "dua-lipa",
+      "title": "Dua Lipa - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "901",
+      "artistUsername": "billie-eilish",
+      "title": "Billie Eilish - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "902",
+      "artistUsername": "billie-eilish",
+      "title": "Billie Eilish - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "903",
+      "artistUsername": "billie-eilish",
+      "title": "Billie Eilish - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "904",
+      "artistUsername": "billie-eilish",
+      "title": "Billie Eilish - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "905",
+      "artistUsername": "billie-eilish",
+      "title": "Billie Eilish - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "906",
+      "artistUsername": "billie-eilish",
+      "title": "Billie Eilish - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "907",
+      "artistUsername": "billie-eilish",
+      "title": "Billie Eilish - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "908",
+      "artistUsername": "billie-eilish",
+      "title": "Billie Eilish - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "1001",
+      "artistUsername": "shawn-mendes",
+      "title": "Shawn Mendes - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "1002",
+      "artistUsername": "shawn-mendes",
+      "title": "Shawn Mendes - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "1003",
+      "artistUsername": "shawn-mendes",
+      "title": "Shawn Mendes - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "1004",
+      "artistUsername": "shawn-mendes",
+      "title": "Shawn Mendes - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "1005",
+      "artistUsername": "shawn-mendes",
+      "title": "Shawn Mendes - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "1006",
+      "artistUsername": "shawn-mendes",
+      "title": "Shawn Mendes - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "1007",
+      "artistUsername": "shawn-mendes",
+      "title": "Shawn Mendes - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "1008",
+      "artistUsername": "shawn-mendes",
+      "title": "Shawn Mendes - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "1101",
+      "artistUsername": "selena-gomez",
+      "title": "Selena Gomez - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "1102",
+      "artistUsername": "selena-gomez",
+      "title": "Selena Gomez - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "1103",
+      "artistUsername": "selena-gomez",
+      "title": "Selena Gomez - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "1104",
+      "artistUsername": "selena-gomez",
+      "title": "Selena Gomez - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "1105",
+      "artistUsername": "selena-gomez",
+      "title": "Selena Gomez - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "1106",
+      "artistUsername": "selena-gomez",
+      "title": "Selena Gomez - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "1107",
+      "artistUsername": "selena-gomez",
+      "title": "Selena Gomez - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "1108",
+      "artistUsername": "selena-gomez",
+      "title": "Selena Gomez - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "1201",
+      "artistUsername": "justin-bieber",
+      "title": "Justin Bieber - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "1202",
+      "artistUsername": "justin-bieber",
+      "title": "Justin Bieber - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "1203",
+      "artistUsername": "justin-bieber",
+      "title": "Justin Bieber - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "1204",
+      "artistUsername": "justin-bieber",
+      "title": "Justin Bieber - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "1205",
+      "artistUsername": "justin-bieber",
+      "title": "Justin Bieber - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "1206",
+      "artistUsername": "justin-bieber",
+      "title": "Justin Bieber - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "1207",
+      "artistUsername": "justin-bieber",
+      "title": "Justin Bieber - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "1208",
+      "artistUsername": "justin-bieber",
+      "title": "Justin Bieber - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "1301",
+      "artistUsername": "imagine-dragons",
+      "title": "Imagine Dragons - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "1302",
+      "artistUsername": "imagine-dragons",
+      "title": "Imagine Dragons - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "1303",
+      "artistUsername": "imagine-dragons",
+      "title": "Imagine Dragons - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "1304",
+      "artistUsername": "imagine-dragons",
+      "title": "Imagine Dragons - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "1305",
+      "artistUsername": "imagine-dragons",
+      "title": "Imagine Dragons - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "1306",
+      "artistUsername": "imagine-dragons",
+      "title": "Imagine Dragons - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "1307",
+      "artistUsername": "imagine-dragons",
+      "title": "Imagine Dragons - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "1308",
+      "artistUsername": "imagine-dragons",
+      "title": "Imagine Dragons - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "1401",
+      "artistUsername": "one-direction",
+      "title": "One Direction - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "1402",
+      "artistUsername": "one-direction",
+      "title": "One Direction - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "1403",
+      "artistUsername": "one-direction",
+      "title": "One Direction - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "1404",
+      "artistUsername": "one-direction",
+      "title": "One Direction - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "1405",
+      "artistUsername": "one-direction",
+      "title": "One Direction - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "1406",
+      "artistUsername": "one-direction",
+      "title": "One Direction - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "1407",
+      "artistUsername": "one-direction",
+      "title": "One Direction - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "1408",
+      "artistUsername": "one-direction",
+      "title": "One Direction - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "1501",
+      "artistUsername": "post-malone",
+      "title": "Post Malone - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "1502",
+      "artistUsername": "post-malone",
+      "title": "Post Malone - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "1503",
+      "artistUsername": "post-malone",
+      "title": "Post Malone - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "1504",
+      "artistUsername": "post-malone",
+      "title": "Post Malone - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "1505",
+      "artistUsername": "post-malone",
+      "title": "Post Malone - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "1506",
+      "artistUsername": "post-malone",
+      "title": "Post Malone - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "1507",
+      "artistUsername": "post-malone",
+      "title": "Post Malone - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "1508",
+      "artistUsername": "post-malone",
+      "title": "Post Malone - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    },
+    {
+      "id": "1601",
+      "artistUsername": "alan-walker",
+      "title": "Alan Walker - First Light",
+      "releaseYear": 2018,
+      "genre": "Pop",
+      "songs": [
+        "First Light Track 1",
+        "First Light Track 2",
+        "First Light Track 3",
+        "First Light Track 4",
+        "First Light Track 5"
+      ]
+    },
+    {
+      "id": "1602",
+      "artistUsername": "alan-walker",
+      "title": "Alan Walker - Golden Moments",
+      "releaseYear": 2019,
+      "genre": "Romantic",
+      "songs": [
+        "Golden Moments Track 1",
+        "Golden Moments Track 2",
+        "Golden Moments Track 3",
+        "Golden Moments Track 4",
+        "Golden Moments Track 5"
+      ]
+    },
+    {
+      "id": "1603",
+      "artistUsername": "alan-walker",
+      "title": "Alan Walker - Midnight Stories",
+      "releaseYear": 2020,
+      "genre": "Acoustic",
+      "songs": [
+        "Midnight Stories Track 1",
+        "Midnight Stories Track 2",
+        "Midnight Stories Track 3",
+        "Midnight Stories Track 4",
+        "Midnight Stories Track 5"
+      ]
+    },
+    {
+      "id": "1604",
+      "artistUsername": "alan-walker",
+      "title": "Alan Walker - Acoustic Memories",
+      "releaseYear": 2021,
+      "genre": "Live",
+      "songs": [
+        "Acoustic Memories Track 1",
+        "Acoustic Memories Track 2",
+        "Acoustic Memories Track 3",
+        "Acoustic Memories Track 4",
+        "Acoustic Memories Track 5"
+      ]
+    },
+    {
+      "id": "1605",
+      "artistUsername": "alan-walker",
+      "title": "Alan Walker - The Journey",
+      "releaseYear": 2022,
+      "genre": "Greatest Hits",
+      "songs": [
+        "The Journey Track 1",
+        "The Journey Track 2",
+        "The Journey Track 3",
+        "The Journey Track 4",
+        "The Journey Track 5"
+      ]
+    },
+    {
+      "id": "1606",
+      "artistUsername": "alan-walker",
+      "title": "Alan Walker - City Lights",
+      "releaseYear": 2023,
+      "genre": "Electronic",
+      "songs": [
+        "City Lights Track 1",
+        "City Lights Track 2",
+        "City Lights Track 3",
+        "City Lights Track 4",
+        "City Lights Track 5"
+      ]
+    },
+    {
+      "id": "1607",
+      "artistUsername": "alan-walker",
+      "title": "Alan Walker - Dream Collection",
+      "releaseYear": 2024,
+      "genre": "Unplugged",
+      "songs": [
+        "Dream Collection Track 1",
+        "Dream Collection Track 2",
+        "Dream Collection Track 3",
+        "Dream Collection Track 4",
+        "Dream Collection Track 5"
+      ]
+    },
+    {
+      "id": "1608",
+      "artistUsername": "alan-walker",
+      "title": "Alan Walker - Final Chapter",
+      "releaseYear": 2025,
+      "genre": "Studio Sessions",
+      "songs": [
+        "Final Chapter Track 1",
+        "Final Chapter Track 2",
+        "Final Chapter Track 3",
+        "Final Chapter Track 4",
+        "Final Chapter Track 5"
+      ]
+    }
+  ]
+}

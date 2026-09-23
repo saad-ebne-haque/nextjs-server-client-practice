@@ -1,0 +1,86 @@
+{
+  "artists": [
+    {
+      "id": "artist-001",
+      "username": "arijit-singh",
+      "name": "Arijit Singh",
+      "genre": "Indian Playback"
+    },
+    {
+      "id": "artist-002",
+      "username": "atif-aslam",
+      "name": "Atif Aslam",
+      "genre": "Pop"
+    },
+    {
+      "id": "artist-003",
+      "username": "taylor-swift",
+      "name": "Taylor Swift",
+      "genre": "Pop"
+    },
+    {
+      "id": "artist-004",
+      "username": "ed-sheeran",
+      "name": "Ed Sheeran",
+      "genre": "Pop"
+    },
+    {
+      "id": "artist-005",
+      "username": "dua-lipa",
+      "name": "Dua Lipa",
+      "genre": "Pop"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "playlist-001",
+      "artistID": "artist-001",
+      "name": "Arijit Singh Romantic Hits"
+    },
+    {
+      "id": "playlist-002",
+      "artistID": "artist-001",
+      "name": "Best of Arijit Singh"
+    },
+    {
+      "id": "playlist-003",
+      "artistID": "artist-002",
+      "name": "Atif Aslam Love Songs"
+    },
+    {
+      "id": "playlist-004",
+      "artistID": "artist-002",
+      "name": "Atif Aslam Top Tracks"
+    },
+    {
+      "id": "playlist-005",
+      "artistID": "artist-003",
+      "name": "Taylor Swift Essentials"
+    },
+    {
+      "id": "playlist-006",
+      "artistID": "artist-003",
+      "name": "Taylor Swift Love Story"
+    },
+    {
+      "id": "playlist-007",
+      "artistID": "artist-004",
+      "name": "Ed Sheeran Acoustic"
+    },
+    {
+      "id": "playlist-008",
+      "artistID": "artist-004",
+      "name": "Ed Sheeran Greatest Hits"
+    },
+    {
+      "id": "playlist-009",
+      "artistID": "artist-005",
+      "name": "Dua Lipa Dance Hits"
+    },
+    {
+      "id": "playlist-010",
+      "artistID": "artist-005",
+      "name": "Dua Lipa Pop Collection"
+    }
+  ]
+}
